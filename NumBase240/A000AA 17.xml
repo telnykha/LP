@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TLFSemanticImageDescriptor ImageWidth="0" ImageHeight="0">
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="F871C348-1EEF-4288-986B-08A9651F1BAB" Angle="0" Racurs="0" Bw="12" Bh="24" left="34" top="26" right="52" bottom="62" Comment="">
+        <TLFZone type="1" id="0">
+            <TLF2DRect left="14.166667" top="30.232558" right="21.666667" bottom="72.093023" />
+        </TLFZone>
+    </TLFDetectedItem>
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="7E25FCA7-CCE4-4FE6-A22C-84AD3E197624" Angle="0" Racurs="0" Bw="12" Bh="24" left="57" top="25" right="75" bottom="61" Comment="">
+        <TLFZone type="1" id="0">
+            <TLF2DRect left="23.750000" top="29.069767" right="31.250000" bottom="70.930233" />
+        </TLFZone>
+    </TLFDetectedItem>
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="7E25FCA7-CCE4-4FE6-A22C-84AD3E197624" Angle="0" Racurs="0" Bw="12" Bh="24" left="78" top="27" right="95" bottom="61" Comment="">
+        <TLFZone type="1" id="0">
+            <TLF2DRect left="32.500000" top="31.395349" right="39.583333" bottom="70.930233" />
+        </TLFZone>
+    </TLFDetectedItem>
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="7E25FCA7-CCE4-4FE6-A22C-84AD3E197624" Angle="0" Racurs="0" Bw="12" Bh="24" left="100" top="27" right="117" bottom="62" Comment="">
+        <TLFZone type="1" id="0">
+            <TLF2DRect left="41.666667" top="31.395349" right="48.750000" bottom="72.093023" />
+        </TLFZone>
+    </TLFDetectedItem>
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="F871C348-1EEF-4288-986B-08A9651F1BAB" Angle="0" Racurs="0" Bw="12" Bh="24" left="120" top="28" right="137" bottom="63" Comment="">
+        <TLFZone type="1" id="0">
+            <TLF2DRect left="50.000000" top="32.558140" right="57.083333" bottom="73.255814" />
+        </TLFZone>
+    </TLFDetectedItem>
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="F871C348-1EEF-4288-986B-08A9651F1BAB" Angle="0" Racurs="0" Bw="12" Bh="24" left="141" top="29" right="158" bottom="64" Comment="">
+        <TLFZone type="1" id="0">
+            <TLF2DRect left="58.750000" top="33.720930" right="65.833333" bottom="74.418605" />
+        </TLFZone>
+    </TLFDetectedItem>
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="FCA67A0D-C031-4EFC-90A3-1B07676190B0" Angle="0" Racurs="0" Bw="12" Bh="24" left="165" top="30" right="177" bottom="54" Comment="">
+        <TLFZone type="1" id="0">
+            <TLF2DRect left="68.750000" top="34.883721" right="73.750000" bottom="62.790698" />
+        </TLFZone>
+    </TLFDetectedItem>
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="9A86B92B-D765-4190-BC19-584CB96FF3BA" Angle="0" Racurs="0" Bw="12" Bh="24" left="177" top="30" right="189" bottom="54" Comment="">
+        <TLFZone type="1" id="0">
+            <TLF2DRect left="73.750000" top="34.883721" right="78.750000" bottom="62.790698" />
+        </TLFZone>
+    </TLFDetectedItem>
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="9A86B92B-D765-4190-BC19-584CB96FF3BA" Angle="0" Racurs="0" Bw="12" Bh="24" left="191" top="30" right="203" bottom="54" Comment="">
+        <TLFZone type="1" id="0">
+            <TLF2DRect left="79.583333" top="34.883721" right="84.583333" bottom="62.790698" />
+        </TLFZone>
+    </TLFDetectedItem>
+</TLFSemanticImageDescriptor>
