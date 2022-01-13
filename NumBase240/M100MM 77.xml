@@ -1,2 +1,11 @@
 <?xml version="1.0" ?>
-<TLFSemanticImageDescriptor ImageWidth="0" ImageHeight="0" />
+<TLFSemanticImageDescriptor ImageWidth="0" ImageHeight="0">
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="31FAB492-754A-42E8-AA21-CDF7B206970B" Angle="0" Racurs="0" Bw="12" Bh="24" left="24" top="24" right="45" bottom="66" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="FCA67A0D-C031-4EFC-90A3-1B07676190B0" Angle="0" Racurs="0" Bw="12" Bh="24" left="50" top="27" right="69" bottom="65" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="7E25FCA7-CCE4-4FE6-A22C-84AD3E197624" Angle="0" Racurs="0" Bw="12" Bh="24" left="71" top="25" right="91" bottom="65" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="7E25FCA7-CCE4-4FE6-A22C-84AD3E197624" Angle="0" Racurs="0" Bw="12" Bh="24" left="92" top="25" right="112" bottom="65" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="31FAB492-754A-42E8-AA21-CDF7B206970B" Angle="0" Racurs="0" Bw="12" Bh="24" left="115" top="23" right="136" bottom="65" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="31FAB492-754A-42E8-AA21-CDF7B206970B" Angle="0" Racurs="0" Bw="12" Bh="24" left="136" top="23" right="157" bottom="65" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="9A86B92B-D765-4190-BC19-584CB96FF3BA" Angle="0" Racurs="0" Bw="12" Bh="24" left="164" top="23" right="179" bottom="53" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="9A86B92B-D765-4190-BC19-584CB96FF3BA" Angle="0" Racurs="0" Bw="12" Bh="24" left="180" top="23" right="195" bottom="53" Comment="" />
+</TLFSemanticImageDescriptor>

@@ -1,2 +1,12 @@
 <?xml version="1.0" ?>
-<TLFSemanticImageDescriptor ImageWidth="0" ImageHeight="0" />
+<TLFSemanticImageDescriptor ImageWidth="0" ImageHeight="0">
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="20D25B0E-0963-4414-8DF9-A695E30A7A45" Angle="0" Racurs="0" Bw="12" Bh="24" left="58" top="28" right="74" bottom="60" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="C3D67EE7-9577-4701-A4E0-30FEE8029D19" Angle="0" Racurs="0" Bw="12" Bh="24" left="74" top="28" right="90" bottom="60" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="FCA67A0D-C031-4EFC-90A3-1B07676190B0" Angle="0" Racurs="0" Bw="12" Bh="24" left="88" top="28" right="104" bottom="60" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="C3D67EE7-9577-4701-A4E0-30FEE8029D19" Angle="0" Racurs="0" Bw="12" Bh="24" left="104" top="28" right="120" bottom="60" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="106CF461-3C36-4D04-A694-7BEB08273B33" Angle="0" Racurs="0" Bw="12" Bh="24" left="119" top="32" right="133" bottom="60" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="B8A8F9E9-1762-46D6-B11A-C2750F0947CE" Angle="0" Racurs="0" Bw="12" Bh="24" left="135" top="30" right="150" bottom="60" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="FCA67A0D-C031-4EFC-90A3-1B07676190B0" Angle="0" Racurs="0" Bw="12" Bh="24" left="152" top="25" right="166" bottom="53" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="C3D67EE7-9577-4701-A4E0-30FEE8029D19" Angle="0" Racurs="0" Bw="12" Bh="24" left="166" top="25" right="178" bottom="49" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="C3D67EE7-9577-4701-A4E0-30FEE8029D19" Angle="0" Racurs="0" Bw="12" Bh="24" left="178" top="26" right="190" bottom="50" Comment="" />
+</TLFSemanticImageDescriptor>

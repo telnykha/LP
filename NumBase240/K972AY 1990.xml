@@ -1,2 +1,12 @@
 <?xml version="1.0" ?>
-<TLFSemanticImageDescriptor ImageWidth="0" ImageHeight="0" />
+<TLFSemanticImageDescriptor ImageWidth="0" ImageHeight="0">
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="B8A8F9E9-1762-46D6-B11A-C2750F0947CE" Angle="0" Racurs="0" Bw="12" Bh="24" left="29" top="26" right="48" bottom="64" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="C3D67EE7-9577-4701-A4E0-30FEE8029D19" Angle="0" Racurs="0" Bw="12" Bh="24" left="51" top="24" right="71" bottom="64" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="9A86B92B-D765-4190-BC19-584CB96FF3BA" Angle="0" Racurs="0" Bw="12" Bh="24" left="72" top="27" right="91" bottom="65" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="B3B9E4D5-F246-4CDE-A9DC-0A13DBF84D7D" Angle="0" Racurs="0" Bw="12" Bh="24" left="95" top="27" right="114" bottom="65" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="F871C348-1EEF-4288-986B-08A9651F1BAB" Angle="0" Racurs="0" Bw="12" Bh="24" left="117" top="27" right="136" bottom="65" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="3CE813FA-F606-46D9-922C-EC3DFC7AF41B" Angle="0" Racurs="0" Bw="12" Bh="24" left="139" top="29" right="157" bottom="65" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="FCA67A0D-C031-4EFC-90A3-1B07676190B0" Angle="0" Racurs="0" Bw="12" Bh="24" left="166" top="24" right="181" bottom="54" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="C3D67EE7-9577-4701-A4E0-30FEE8029D19" Angle="0" Racurs="0" Bw="12" Bh="24" left="182" top="24" right="197" bottom="54" Comment="" />
+    <TLFDetectedItem DetectorName="Human marked" Raiting="0.000000" Type="C3D67EE7-9577-4701-A4E0-30FEE8029D19" Angle="0" Racurs="0" Bw="12" Bh="24" left="198" top="23" right="214" bottom="55" Comment="" />
+</TLFSemanticImageDescriptor>
