@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<TLFSemanticDictinary Description="">
+    <TLFSemanticDictinaryItem noun="number" color="65280" id="DBEA99EE-C2D4-4F7E-B1AE-41DEEFBFBF22">
+        <ILFScanner type="TLFScanner" ApertureWidth="56" ApertureHeight="18">
+            <TLFParameter type="TLFParameter" m_Value="10.000000" m_MaxValue="100.000000" m_MinValue="1.000000" m_Name="step" m_Descr="step space as a percentage of baseline resolution" />
+            <TLFParameter type="TLFParameter" m_Value="1.100000" m_MaxValue="2.000000" m_MinValue="1.100000" m_Name="grow" m_Descr="step on the scale" />
+            <TLFParameter type="TLFParameter" m_Value="1.000000" m_MaxValue="4.000000" m_MinValue="1.000000" m_Name="MinSize" m_Descr="min size of scanned object in the BaseWidth" />
+            <TLFParameter type="TLFParameter" m_Value="50.000000" m_MaxValue="100.000000" m_MinValue="1.000000" m_Name="MaxSize" m_Descr="max size of scanned object in the BaseWidth" />
+        </ILFScanner>
+    </TLFSemanticDictinaryItem>
+    <TLFSemanticDictinaryItem noun="SIGN" color="16711935" id="3193E172-2D78-4740-B7E1-CE99FDD3CFBF">
+        <ILFScanner type="TLFScanner" ApertureWidth="24" ApertureHeight="24">
+            <TLFParameter type="TLFParameter" m_Value="10.000000" m_MaxValue="100.000000" m_MinValue="1.000000" m_Name="step" m_Descr="step space as a percentage of baseline resolution" />
+            <TLFParameter type="TLFParameter" m_Value="1.100000" m_MaxValue="2.000000" m_MinValue="1.100000" m_Name="grow" m_Descr="step on the scale" />
+            <TLFParameter type="TLFParameter" m_Value="1.000000" m_MaxValue="4.000000" m_MinValue="1.000000" m_Name="MinSize" m_Descr="min size of scanned object in the BaseWidth" />
+            <TLFParameter type="TLFParameter" m_Value="50.000000" m_MaxValue="100.000000" m_MinValue="1.000000" m_Name="MaxSize" m_Descr="max size of scanned object in the BaseWidth" />
+        </ILFScanner>
+    </TLFSemanticDictinaryItem>
+</TLFSemanticDictinary>

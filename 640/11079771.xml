@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<TLFSemanticImageDescriptor ImageWidth="1625" ImageHeight="1185">
+    <TLFDetectedItem DetectorName="Human Marked" Raiting="0.000000" Type="number" Angle="0" Racurs="16" Bw="54" Bh="18" left="403" top="732" right="524" bottom="772" />
+    <TLFDetectedItem DetectorName="Human Marked" Raiting="0.000000" Type="number" Angle="0" Racurs="16" Bw="54" Bh="18" left="1110" top="762" right="1266" bottom="813" />
+</TLFSemanticImageDescriptor>
